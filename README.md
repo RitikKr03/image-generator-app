@@ -1,4 +1,4 @@
-# Random Image App
+# Random Image Generator App
 
 This is a simple React application that displays a random image in the center of the page each time the page is refreshed. It also includes a share button that allows users to share the current image on Facebook, Twitter, and WhatsApp.
 
