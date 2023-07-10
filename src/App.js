@@ -5,7 +5,7 @@ import { FacebookShareButton, TwitterShareButton, WhatsappShareButton } from 're
 import './App.css';
 
 const unsplash = createApi({
-  accessKey: 'itqlXJ7k8Jul8FxxFF129bzpKdmpdOOsZ9-cGwV-d20', // Replace with your actual Unsplash access key
+  accessKey: 'itqlXJ7k8Jul8FxxFF129bzpKdmpdOOsZ9-cGwV-d20', 
 });
 
 const App = () => {
